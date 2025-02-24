@@ -2,3 +2,4 @@ Hello World!
 12345
 Goodbye
 Line from user1 lesson about rebase
+fix bug
